@@ -1,0 +1,6 @@
+The C implementation can be compiled on a system by running `make`.
+The system must be POSIX complicant and must have gcc installed.
+
+The programs read a file named `input.dat` in the working directory to gather the initial data.
+An example set of 256 elements can be found in the parent directory (input.dat.example)
+Binaries are provided, but they are formatted for ELF x86 and will not run on Windows systems unless recompiled.

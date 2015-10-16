@@ -1,0 +1,2 @@
+To run the Python implementations, execute `python sort_selection.py` or `python sort_bubble.py`
+The scripts also take a file `input.dat` as the numbers to sort. (examples provided in parent directory)

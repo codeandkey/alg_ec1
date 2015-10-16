@@ -1,3 +1,6 @@
+# Justin Stanley
+# Bubble sort implementation - Python 3.5
+
 import time
 import sys
 
